@@ -1,0 +1,14 @@
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.AssemblyInfoInputs.cache
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.AssemblyInfo.cs
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.csproj.CoreCompileInputs.cache
+D:\Labs\Lab33\Lab333\bin\Debug\net6.0\Lab333.exe
+D:\Labs\Lab33\Lab333\bin\Debug\net6.0\Lab333.deps.json
+D:\Labs\Lab33\Lab333\bin\Debug\net6.0\Lab333.runtimeconfig.json
+D:\Labs\Lab33\Lab333\bin\Debug\net6.0\Lab333.dll
+D:\Labs\Lab33\Lab333\bin\Debug\net6.0\Lab333.pdb
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.dll
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\refint\Lab333.dll
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.pdb
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\Lab333.genruntimeconfig.cache
+D:\Labs\Lab33\Lab333\obj\Debug\net6.0\ref\Lab333.dll
